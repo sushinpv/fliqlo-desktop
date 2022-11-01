@@ -10,7 +10,7 @@
   --font-size-secondary: 2rem;
   --card-padding: 2rem 4rem 4rem 4rem;
   --card-radius: 4rem;
-  --divider-height:0.5rem;
+  --divider-height: 0.5rem;
 }
 
 html {
@@ -24,6 +24,7 @@ body {
   overflow: hidden;
   font-family: "Oswald", sans-serif !important;
   background: var(--background-color-primary);
+  cursor: none;
 }
 
 .clock {
