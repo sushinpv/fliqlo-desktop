@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "fliqdesk",
+    "productName": "Fliq Desk",
     "version": "0.0.0"
   },
   "tauri": {
